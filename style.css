@@ -1,0 +1,54 @@
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling for All Section Headers */
+h2 {
+    color: #2c3e50;
+    font-family: 'Georgia', serif;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Image Styling */
+img {
+    border: 5px solid #ccc;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+/* Styling for the Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+/* Margin and Padding for Sections */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
