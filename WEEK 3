@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Page</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking the external CSS file -->
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>This is a simple webpage to demonstrate CSS styling.</p>
+            <img src="https://via.placeholder.com/300" alt="Sample Image">
+        </section>
+        
+        <section>
+            <h2>Contact</h2>
+            <p>Email us at: example@example.com</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 My Website</p>
+    </footer>
+
+</body>
+</html>
